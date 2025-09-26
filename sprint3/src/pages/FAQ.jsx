@@ -14,7 +14,7 @@ function FAQ() {
             </div>
             <div className="p-4 cursor-pointer">
               <h1 className="text-2xl lg:text-3xl font-semibold">
-              DÉ certa a implementação da solução?
+              É certa a implementação da solução?
               </h1>
               <h4  className="text-xl lg:text-2xl  text-text/65">
                 Ainda não é certa, dada que ainda é um protótipo para a parceria proposta.
