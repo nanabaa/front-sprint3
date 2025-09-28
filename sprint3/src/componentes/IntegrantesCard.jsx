@@ -15,7 +15,7 @@ const IntegranteCard = ({
       <img 
         src={foto} 
         className='pb-5' 
-        alt={Foto Integrante} 
+        alt={`Foto Integrante`} 
       />
       <h4 className='font-bold text-2xl text-bg text-center'>{nome}</h4>
       <p className='text-xl text-blue-light'>{turma} - RM{rm}</p>
