@@ -19,7 +19,7 @@
   }
   
   .remove-number-spinners {
-    -moz-appearance: textfield;
+    appearance: textfield;
   }
 }
 
