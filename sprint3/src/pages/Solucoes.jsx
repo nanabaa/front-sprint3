@@ -18,7 +18,7 @@ function Solucoes() {
             </section>
 
             <section className='min-h-screen bg-text-white flex flex-col content-center text-justify flex-wrap lg:p-25 gap-10 '>
-                    <div className='flex flex-row justify-center md:justify-between mt-20 items-center w-sm sm:w-lg  md:w-2xl lg:w-5xl xl:w-auto flex-wrap xl:flex-nowrap '>
+                    <div className='flex flex-row justify-center md:justify-between mt-5 items-center w-sm sm:w-lg  md:w-2xl lg:w-5xl xl:w-auto flex-wrap xl:flex-nowrap '>
                         <div className=' flex flex-col gap-10 w-6xl'>
                     <h4 className='text-3xl lg:text-6xl  font-bold text-text'>Problematização</h4>
                 <p className='text-xl lg:text-2xl leading-13'>Na parceria com o HC, obtivemos a informação de que há cerca de 20% de faltas nas consultas digitais. Isso ocorre por causa do “Absenteísmo digital”, que refere-se à ausência ou falta de acesso e utilização adequada das tecnologias digitais, que ocorre tanto por fatores econômicos, como o alto custo de serviço de internet, a falta de condições para comprar um aparelho eletrônico, ou para comprar um novo que tenha o devido suporte para certas funções; assim como fatores etários. Hoje em dia nascemos com uma maior possibilidade de imersão digital, diferente das gerações passadas que não tiveram essa oportunidade e por isso podem ter dificuldades em certos recursos.</p>
