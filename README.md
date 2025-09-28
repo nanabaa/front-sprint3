@@ -12,26 +12,28 @@ Ao abrir o arquivo deve-se abrir o terminal e inserir:
 
 Usamos das tecnologias REACT + VITE + TAILWIND CSS durante o desenvolvimento da página web do projeto.
 O site é composto por pastas encontradas dentro da pasta SRC.
-Nela contém pasta de componentes, que abrange:
-Footer
-Navbar
-Cards dos integrantes
+1. Nela contém a pasta de componentes, que abrange:
 
-Pasta de imagens contendo fotos de banners, integrantes, ícones de github e linkedin e foto do HC.
+Footer - Navbar - Cards dos integrantes
 
-Pasta de páginas, contendo:
-Contato
-FAQ
-Home
-Integrantes
-Soluções
 
-Além dessas pastas, a pasta SRC contém 3 arquivos importantes:
-App
-Main
-Index.css
+2. Pasta de imagens contendo fotos de banners, integrantes, ícones de github e linkedin e foto do HC.
+
+
+3. Pasta de páginas, contendo:
+
+Contato - FAQ - Home - Integrantes - Soluções
+
+
+4. Além dessas pastas, a pasta SRC contém 3 arquivos importantes:
+
+App - Main - Index.css
+
 
 Link do repositório: https://github.com/nanabaa/front-sprint3.git
+
+
 Link do vídeo: https://youtu.be/J7RLB5clnOc
+
 
 Ana Clara de O. Nascimento rm561957 - Isis Macedo e Andrade rm561497 - Anabelle Roseto rm564526
