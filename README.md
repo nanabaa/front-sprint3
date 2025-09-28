@@ -7,8 +7,9 @@ Também há a pretensão de incluir posteriormente leitura por voz e tradução 
 Outra necessidade notada foi a de ajuste de câmera e aúdio antes da consulta, para evitar o consumo do tempo de forma não produtiva, sendo resolvido com uma tela de preparo, assim como em plataformas de reuniões online, que permite que o usuário confira suas configurações antes de entrar na reunião. Essa configuração seria acompanhada da indicação de entrar na reunião 10 minutos antes, dando o tempo necessário para todos os ajustes e evitando atrasos.
 
 Ao abrir o arquivo deve-se abrir o terminal e inserir: 
-1. NPM i
-2. NPM run dev + CTRL click para acessar o site.
+1. cd sprint3
+2. NPM i
+3. NPM run dev + CTRL click para acessar o site.
 
 Usamos das tecnologias REACT + VITE + TAILWIND CSS durante o desenvolvimento da página web do projeto.
 O site é composto por pastas encontradas dentro da pasta SRC.
