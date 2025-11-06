@@ -33,7 +33,7 @@ function Integrantes() {
             nome="Anabelle Rosseto"
             rm="564526"
             git="https://github.com/AnabelleRosseto"
-            linkedin="https://www.linkedin.com/in/felipe-rosseto-rodrigues-b7a974232"
+            linkedin="https://www.linkedin.com/in/anabelle-rosseto-rodrigues"
           />
 
         </div>
